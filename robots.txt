@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lijinghengpsych.github.io/sitemap.xml
