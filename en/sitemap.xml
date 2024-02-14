@@ -2,52 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lijinghengpsych.github.io/en/categories/</loc>
+    <loc>https://lijinghengpsych.github.io/about/</loc>
+    <lastmod>2024-02-06T20:26:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://lijinghengpsych.github.io/categories/"
+                href="https://lijinghengpsych.github.io/zh-cn/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lijinghengpsych.github.io/en/categories/"
+                href="https://lijinghengpsych.github.io/about/"
                 />
   </url><url>
-    <loc>https://lijinghengpsych.github.io/en/</loc>
+    <loc>https://lijinghengpsych.github.io/contact/</loc>
+    <lastmod>2024-02-06T20:26:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+                href="https://lijinghengpsych.github.io/zh-cn/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lijinghengpsych.github.io/contact/"
+                />
+  </url><url>
+    <loc>https://lijinghengpsych.github.io/</loc>
+    <lastmod>2024-02-06T20:26:13+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://lijinghengpsych.github.io/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://lijinghengpsych.github.io/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lijinghengpsych.github.io/en/"
-                />
   </url><url>
-    <loc>https://lijinghengpsych.github.io/en/series/</loc>
+    <loc>https://lijinghengpsych.github.io/publications/</loc>
+    <lastmod>2024-02-06T20:26:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://lijinghengpsych.github.io/series/"
+                href="https://lijinghengpsych.github.io/zh-cn/publications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lijinghengpsych.github.io/en/series/"
+                href="https://lijinghengpsych.github.io/publications/"
                 />
   </url><url>
-    <loc>https://lijinghengpsych.github.io/en/tags/</loc>
+    <loc>https://lijinghengpsych.github.io/research/</loc>
+    <lastmod>2024-02-06T20:26:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+                href="https://lijinghengpsych.github.io/zh-cn/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lijinghengpsych.github.io/research/"
+                />
+  </url><url>
+    <loc>https://lijinghengpsych.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://lijinghengpsych.github.io/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lijinghengpsych.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://lijinghengpsych.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://lijinghengpsych.github.io/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://lijinghengpsych.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lijinghengpsych.github.io/en/tags/"
                 />
   </url>
 </urlset>
